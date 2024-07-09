@@ -88,7 +88,7 @@ nav{
 .one{
     width: 1140px;
     height: 1393px;
-    /* border: 1px solid; */
+   
     margin: auto;
     background-color: #0d132109;
     border-radius: 9px;
@@ -97,7 +97,7 @@ nav{
 .secpart{
     width: 852px;
     height: 113px;
-    /* border: 1px solid; */
+ 
     margin: auto;
     text-align: center;
     margin-top: 80px;
@@ -188,3 +188,75 @@ nav{
     width: 469px !important; 
 }
 
+.two{
+    margin-top: 96px !important;
+    width: 1140px;
+    height: 775px;
+    background-color: #0d132103;
+    margin: auto;
+}
+.discription h1{
+    width: 852px;
+    height: 37px;
+    font-size: 32px;
+    font-weight: 900;
+}
+
+.discription p{
+    width: 852px;
+    height: 52px;
+    font-size: 16px;
+    margin-top: 24px;
+}
+
+.discription{
+    width: 852px;
+    height: 113px;
+    text-align: center;
+    margin: auto;
+}
+
+.videooo{
+    width: 1140px;
+    height: 614px;
+    margin-top: 48px;
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    border-radius: 10px;
+    
+}
+
+.videooo iframe{
+    margin: auto;
+    display: block;
+    margin-top: 32px;
+    border-radius: 10px;
+}
+
+.treesce div{
+    width: 364px;
+    height: 299px;
+    border: 1px solid;
+
+}
+
+
+.treesce div h1{
+    width: 284px;
+    height: 36px;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.treesce div p{
+    width: 302px;
+    height: 58px;
+    font-size: 16px;
+    display: block;
+}
+
+.treesce div a{
+    width: 284px;
+    height: 19px;
+    font-size: 16px;
+    font-weight: 800;
+}
