@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+/* font-family: "Azeret Mono", monospace; */
+
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: "Azeret Mono", monospace;
+}
+
+p{
+    color: #0d1321c8;
+}
+nav h1{
+    height: 33px;
+    width: 128px;
+    font-weight: 900;
+    font-size: 28px;
+
+}
+
+nav button{
+    width: 244px;
+    height: 57px;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 8px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 200px;
+    margin-top: 50px;
+    align-items: center;
+}
+
+
+.header-one{
+    background-image: url("./assets/Hero-bg.png");
+    background-size: contain;
+    margin-top: 25px;
+    height: 670px;
+}
+
+.inside-head{
+    width: 998px;
+    height: 581px;
+    text-align: center;
+    margin: auto;
+}
+
+
+
+.section-one img{
+    margin-top: 20px;
+}
+
+.section-two h1{
+    font-size: 48px;
+    font-weight: 900;
+    width: 998px;
+    line-height: 68px;
+    margin-top: 32px;
+    
+}
+
+.section-two p{
+    font-size: 16px;
+    width: 852px;
+    line-height: 26px;
+    margin-top: 24px;
+    
+}
+
+.section-two button{
+    width: 244px;
+    height: 65px;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 32px;
+}   
+
+
+.one{
+    width: 1140px;
+    height: 1393px;
+    /* border: 1px solid; */
+    margin: auto;
+    background-color: #0d132109;
+    border-radius: 9px;
+}
+
+.secpart{
+    width: 852px;
+    height: 113px;
+    /* border: 1px solid; */
+    margin: auto;
+    text-align: center;
+    margin-top: 80px;
+    padding-top: 80px;
+}
+
+.secpart h1{
+    height: 37px;
+    width: 852px;
+    font-weight: 900;
+    font-size: 32px;
+}
+
+.secpart p{
+    width: 852px;
+    height: 52px;
+    font-size: 16px;
+    margin-top: 24px;
+}
+
+
+
+.part{
+   width: 477px;
+   height: 219px;
+
+}
+
+
+
+
+.allpart .same{
+    display: flex;
+    justify-content: space-between;
+    width: 850px;
+    height: 240px;
+    margin: auto;
+    align-items: center;
+    margin-top: 48px;
+    padding-top: 48px;
+}
+
+.allpart section h2{
+    width: 390px;
+    height: 72px;
+    font-size: 24px;
+    font-weight: 700;
+    color: #0d1321cc;
+}
+
+.allpart section p{
+    width: 468px;
+    height: 52px;
+    font-size: 16px;
+    display: block;
+    margin-top: 16px;
+}
+
+.allpart section button{
+    width: 171px;
+    height: 47px;
+    font-size: 20px;
+    margin-top: 32px;
+   
+}
+
+.allpart section a{
+    text-decoration: none;
+    color:  #0D1321;
+}
+
+.allpart section img{
+    width: 274.17px;
+    height: 240px;
+}
+
+
+.allpart .sameto{
+    width: 946px;
+    height: 336px;
+    background-color: rgb(255 255 255);
+    margin: auto;
+    margin-top: 32px;
+    border-radius: 7px;
+}
+
+.hala{
+    width: 469px !important; 
+}
+
