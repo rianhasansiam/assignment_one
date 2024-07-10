@@ -374,3 +374,49 @@ nav{
     margin-top: 16px;
 
 }
+
+.supportus{
+    background-image: url("./assets/handshake.jpg");
+    width: 1140px;
+    height: 313px;
+    border-radius: 16px;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    margin-top: 64px;
+}
+
+.supportus h1{
+    width: 292px;
+    height: 36px;
+    color: white;
+    margin: auto;
+}
+
+
+.supportus p{
+    width: 606px;
+    height: 52px;
+    font-size: 16px;
+    color: white !important;
+    margin: auto;
+
+}
+.supportus input{
+    width: 548px;
+    height: 57px;
+    border-radius: 8px;
+    background-color: #fffffff5;
+}
+
+.supportus button{
+    width: 120px;
+    height: 57px;
+    border-radius: 8px;
+}
+
+.supportus div{
+    width: 1044px;
+    height: 185px;
+    margin: auto;
+}
