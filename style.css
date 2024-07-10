@@ -195,6 +195,13 @@ nav{
     background-color: #0d132103;
     margin: auto;
 }
+.two .discription{
+    width: 852px;
+    height: 113px;
+    text-align: center;
+    margin: auto;
+    margin-top: 125px;
+}
 .discription h1{
     width: 852px;
     height: 37px;
@@ -209,11 +216,12 @@ nav{
     margin-top: 24px;
 }
 
-.discription{
+.onenen .discription{
     width: 852px;
     height: 113px;
     text-align: center;
     margin: auto;
+    margin-top: 155px;
 }
 
 .videooo{
@@ -235,8 +243,9 @@ nav{
 .treesce div{
     width: 364px;
     height: 299px;
-    border: 1px solid;
-
+    margin-right: 24px;
+    padding: 30px;
+    border-radius: 16px;
 }
 
 
@@ -245,6 +254,7 @@ nav{
     height: 36px;
     font-size: 24px;
     font-weight: 900;
+    margin-top: 24px;
 }
 
 .treesce div p{
@@ -252,6 +262,7 @@ nav{
     height: 58px;
     font-size: 16px;
     display: block;
+    margin-top: 16px;
 }
 
 .treesce div a{
@@ -259,4 +270,36 @@ nav{
     height: 19px;
     font-size: 16px;
     font-weight: 800;
+    margin-top: 24px;
+    display: block;
+}
+
+.treesce{
+    width: 1140px;
+    height: 360px;
+    display: flex;
+    margin: auto;
+    border-radius: 16px;
+    margin-top: 69px;
+}
+
+.colorthree{
+    margin-right: 0px !important;
+    background-color: #ffdd0013;
+}
+
+.colorone{
+    background-color:#ff4b1e10 ;
+}
+
+.colortwo{
+    background-color:#004de811 ;
+}
+
+.fourere .discription{
+    width: 852px;
+    height: 113px;
+    text-align: center;
+    margin: auto;
+    margin-top: 111px;
 }
