@@ -8,6 +8,9 @@
     margin: 0px;
     font-family: "Azeret Mono", monospace;
 }
+html{
+    scroll-behavior: smooth;
+}
 
 p{
     color: #0d1321c8;
@@ -79,11 +82,17 @@ nav{
     width: 244px;
     height: 65px;
     background-color: black;
-    color: white;
     border-radius: 8px;
     font-size: 20px;
     font-weight: 500;
-    margin-top: 32px;
+    margin-top: 32px !important;
+    display: block;
+    margin: auto;
+}
+
+.section-two button a {
+    color: white;
+    text-decoration: none;
 }   
 
 
