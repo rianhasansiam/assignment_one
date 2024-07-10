@@ -36,10 +36,8 @@ nav{
     display: flex;
     justify-content: space-between;
     padding: 0px 200px;
-    margin-top: 50px !important;
+    margin-top: 50px;
     align-items: center;
-    width: 1440px;
-    margin: auto;
 }
 
 
