@@ -36,16 +36,21 @@ nav{
     display: flex;
     justify-content: space-between;
     padding: 0px 200px;
-    margin-top: 50px;
+    margin-top: 50px !important;
     align-items: center;
+    width: 1440px;
+    margin: auto;
 }
 
 
 .header-one{
     background-image: url("./assets/Hero-bg.png");
     background-size: contain;
-    margin-top: 25px;
+    margin-top: 25px !important;
     height: 670px;
+    background-position: center;
+    width: 1903px;
+    margin: auto;
 }
 
 .inside-head{
