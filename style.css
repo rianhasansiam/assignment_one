@@ -26,6 +26,8 @@ nav button{
     font-size: 20px;
     font-weight: 600;
     border-radius: 8px;
+    border-color: #00000063;
+    color: #0d1321cc;
 }
 nav{
     display: flex;
@@ -161,7 +163,8 @@ nav{
     height: 47px;
     font-size: 20px;
     margin-top: 32px;
-   
+    background-color: #0000000f;
+    border-color: #0000004f;
 }
 
 .allpart section a{
@@ -272,6 +275,7 @@ nav{
     font-weight: 800;
     margin-top: 24px;
     display: block;
+    color: #0D1321;
 }
 
 .treesce{
@@ -413,10 +417,55 @@ nav{
     width: 120px;
     height: 57px;
     border-radius: 8px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #0D1321;
 }
 
 .supportus div{
     width: 1044px;
     height: 185px;
     margin: auto;
+}
+
+
+.finishing h3{
+    width: 456px;
+    height: 23px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #0D1321;
+
+}
+.finishing{
+    display: flex;
+    justify-content: space-between;
+    width: 1140px;
+    height: 36px;
+    margin: auto;
+    align-items: center;
+}
+.iconnn ul{
+    display: flex;
+    list-style: none;
+    width: 157.01px;
+    height: 36px;
+    align-items: center;
+    justify-content: center;
+}
+
+.iconnn li{
+    margin: 10px;
+}
+
+.iconnn img{
+    width: 36px;
+    height: 36px;
+}
+
+.lasttt{
+    background-color: #0d13210f;
+    height: 100px;
+    display: flex;
+    margin-top: 80px;
 }
