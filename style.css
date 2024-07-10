@@ -303,3 +303,74 @@ nav{
     margin: auto;
     margin-top: 111px;
 }
+
+.fourere{
+    width: 1140px;
+    height: 866px;
+   
+    margin: auto;
+}
+
+.foursect{
+   
+    height: 705px;
+    width: 1140px;
+    margin-top: 50px;
+    
+}
+
+.foursect .samesame{
+    width: 1140px;
+    height: 219px;
+    border-radius: 16px;
+    display: flex;
+    box-shadow: 0px 0px 3px 0px #00000030;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 24px;
+}
+
+
+.foursect .samesame img{
+    width: 143.51px;
+    height: 88px;
+    margin-left: 30px;
+    
+}
+.problemm img{
+    width: 99.78px !important;
+    height: 93px !important;
+}
+
+.foursect .samesame div{
+    width: 941.22px;
+    height: 139px;
+    
+    
+}
+
+.foursect .samesame h3{
+    width: 110px;
+    height: 36px;
+    font-weight: 900;
+    font-size: 24px;
+    color: #0D1321;
+}
+
+
+.foursect .samesame p{
+    width: 892px;
+    height: 52px;
+    font-size: 16px;
+    margin-top: 16px;
+    display: block;
+}
+
+.foursect .samesame a{
+    font-size: 16px;
+    font-weight: 800;
+    color: #0D1321;
+    display: block;
+    margin-top: 16px;
+
+}
