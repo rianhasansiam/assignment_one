@@ -2,15 +2,16 @@
 /* font-family: "Azeret Mono", monospace; */
 
 
+/* 
+*{git add .
 
-*{
     padding: 0px;
     margin: 0px;
     font-family: "Azeret Mono", monospace;
-}
-html{
+} */
+/* html{
     scroll-behavior: smooth;
-}
+} */
 
 p{
     color: #0d1321c8;
